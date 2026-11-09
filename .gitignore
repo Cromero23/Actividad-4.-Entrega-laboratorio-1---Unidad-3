@@ -1,0 +1,12 @@
+﻿# Archivos sensibles
+**/*.log
+**/00c-contrasenas-asignadas.png
+
+# Archivos de configuracion privada
+**/.env
+**/.env.*
+
+# Archivos de Windows
+Thumbs.db
+Desktop.ini
+!/laboratorio-01-bitacoras-auditoria-postgresql/evidencias/bitacora-lab01.log
